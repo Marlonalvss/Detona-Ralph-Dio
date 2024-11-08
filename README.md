@@ -1,4 +1,4 @@
-## Detona-Ralph-Dio <img src="./src/images/favicon.ico" width="25px">
+## Detona-Ralph-Dio <img src="./src/images/favicon.ico" width="30px">
 
 Desafio da Dio, para criação de um jogo baseado no detona Ralph para praticar JS.
 
